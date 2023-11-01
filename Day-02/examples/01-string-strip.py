@@ -1,3 +1,11 @@
-text = "   Some spaces around   "
+text = "    Some spaces around       "
 stripped_text = text.strip()
-print("Stripped text:", stripped_text)
+print( stripped_text)
+# print(text) strip will remove any unwanted spaces.
+
+
+
+
+
+
+
